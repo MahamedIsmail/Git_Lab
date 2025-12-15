@@ -1,3 +1,5 @@
 no work savedas
 am the goat.
-hello world␠␠
+#!/bin/bash
+echo "Hello world
+
